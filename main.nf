@@ -25,7 +25,7 @@ Channel
 process create_somatic_PoN {
     
     tag "$af_only_gnomad_vcf"
-    publishDir "create_somatic_PoN_Results", mode: 'copy'
+    publishDir "CreateSomaticPanelOfNormals_Results", mode: 'copy'
     container "broadinstitute/gatk:latest"
 
     input:
