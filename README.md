@@ -1,2 +1,2 @@
-# create-PoN-nf
-Nextflow process/component for creating Panel of Normals for Mutect2
+# CreateSomaticPanelOfNormals-NF
+Single process CreateSomaticPanelOfNormals component intended to be flowcraft-ed  🐳📦 (https://github.com/assemblerflow/flowcraft)
